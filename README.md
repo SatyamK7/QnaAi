@@ -6,8 +6,6 @@ A lightweight and beginner-friendly AI-powered chat interface. This web applicat
 
 - 💡 Conversational AI using a language model
 - 🖥️ Clean and responsive design
-- ⚡ Fast, minimal, and easy to customize
-- 🔌 Simple integration with AI APIs (e.g., OpenAI)
 
 ---
 
